@@ -41,13 +41,15 @@ The dataset contains road accident records with information such as accident dat
 
 Road accidents result in significant loss of life, injuries, and economic costs every year. Analyzing accident data manually makes it difficult to identify trends, accident-prone conditions, and high-risk locations.
 
-Key questions addressed include:
+Key questions such as:
 
 - Which months experience the highest number of accidents?
 - Which road types are most accident-prone?
 - How do weather conditions affect accident frequency?
 - Which road surface conditions contribute to more accidents?
 - Which districts report the highest accident counts?
+
+are difficult to answer quickly with raw data.
 
 ---
 
@@ -120,5 +122,3 @@ Slicers allow users to filter the dashboard dynamically by various categories, m
 - 📘 README.md
 
 ---
-
-## ⭐ If you found this project useful, consider giving it a star!
