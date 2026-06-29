@@ -116,7 +116,7 @@ Slicers allow users to filter the dashboard dynamically by various categories, m
 ## 📂 Project Files
 
 - 📄 Accident_Data_Analysis_Excel.xlsx
-- 🖼️ Dashboard Screenshot
+- 🖼️ Road Accident.png
 - 📘 README.md
 
 ---
