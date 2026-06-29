@@ -109,7 +109,7 @@ Slicers allow users to filter the dashboard dynamically by various categories, m
 
 ## 6. Dashboard Preview
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](https://github.com/Samruddhi-Shejal/Excel-Road-Accident-Analysis/blob/main/Road%20Accident.png)
 
 ---
 
