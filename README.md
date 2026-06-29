@@ -16,7 +16,7 @@ The Road Accident Analysis Dashboard is an interactive Excel-based reporting sol
 
 ## 3. Tech Stack
 
-The dashboard is built using the following tools and technologies:
+The dashboard was built using the following tools and technologies:
 
 - 📊 **Microsoft Excel** – Main platform used for dashboard creation and data visualization.
 - 📈 **Pivot Tables & Pivot Charts** – Used for summarizing and visualizing accident data.
